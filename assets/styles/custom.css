@@ -474,6 +474,10 @@ header .toggle-icon svg {
     padding: 0px 1.5rem 3rem;
   }
 
+  #portf > p:last-child {
+    padding-left: 20px;
+}
+
 
 
   
