@@ -5,7 +5,6 @@
 * Browsers: last 4 version
 */
 
-/* font-family: 'Courgette', cursive; */
 
 
 html {
@@ -18,14 +17,14 @@ html {
 
 
 body {
-    font-family: 'Courgette', cursive;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     background-color: #000;
     color: var(--text-color);
     word-wrap: anywhere;
     font-size: 1.8rem;
     overflow-x: hidden;
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.04rem;
 }
 
 * {
@@ -47,7 +46,7 @@ a:hover {
 }
 
 main {
-    padding: 0 .4rem;
+    /* padding: 0 .4rem; */
 }
 
 
@@ -267,6 +266,16 @@ header .toggle-icon svg {
     text-transform: capitalize;
 }
 
+.cv-right-column-title__wrapper {
+    margin: 4rem 0 3rem;
+}
+
+
+
+.note {
+    padding-left: 1.5rem;
+}
+
 
 .cv-right-column-title-para {
     text-align: center;
@@ -308,7 +317,7 @@ header .toggle-icon svg {
 
   
 .pro-skills-list span {
-    text-transform: capitalize;
+    /* text-transform: lowercase; */
   }
 
 
@@ -454,6 +463,36 @@ header .toggle-icon svg {
 .portfolio-image-8 {
     background-image: url("../images/portfolio/brand-2.webp");
 }
+
+.portfolio-image-9 {
+    background-image: url("../images/portfolio/client-design-images/global-catering.webp");
+}
+
+.portfolio-image-10 {
+    background-image: url("../images/portfolio/client-design-images/efs.webp");
+}
+
+.portfolio-image-11 {
+    background-image: url("../images/portfolio/client-design-images/orisun-invest.webp");
+}
+
+.portfolio-image-12 {
+    background-image: url("../images/portfolio/react-images/gpt3.webp");
+}
+
+.portfolio-image-13 {
+    background-image: url("../images/portfolio/react-images/movie-land.webp");
+}
+
+.portfolio-image-14 {
+    background-image: url("../images/portfolio/react-images/todo.webp");
+}
+
+.portfolio-image-15 {
+    background-image: url("../images/portfolio/react-images/crud-with-fake-api.webp");
+}
+
+
 
 
 .tab-content-row {
