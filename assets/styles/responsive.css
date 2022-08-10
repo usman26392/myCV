@@ -50,4 +50,11 @@
     html {
         font-size: 50.5%; 
     }
+
+    .cv-contacts,
+    .cv-catagory-links {
+        padding: 0 1rem;
+    }
+
+
 }
