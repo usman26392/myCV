@@ -45,9 +45,9 @@ a:hover {
     text-decoration: underline;
 }
 
-main {
-    /* padding: 0 .4rem; */
-}
+/* main {
+    padding: 0 .4rem;
+} */
 
 
 
@@ -167,6 +167,15 @@ main .cv-right-column {
 .cv-catagory-links ul {
     list-style-type: none;
 }
+
+
+@media (max-width: 575px) {
+    .cv-catagory-links ul {
+        padding: 1rem 0;
+    }
+}
+
+
 
   .cv-catagory-links li {
     display: -webkit-box;
