@@ -512,6 +512,12 @@ header .toggle-icon svg {
     background-image: url("../images/portfolio/client-design-images/highway.webp");
 }
 
+.portfolio-image-strata {
+    background-image: url("../images/portfolio/client-design-images/strata.webp");
+}
+
+
+
 
 .tab-content-row {
     display: -webkit-box;
