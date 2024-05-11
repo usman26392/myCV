@@ -94,8 +94,8 @@ a:hover {
     border-radius: 50%;
     -o-object-fit: cover;
        object-fit: cover;
-    -o-object-position: center;
-       object-position: center;
+    -o-object-position: 0 0;
+       object-position: 0 0;
 }
 
 .cv-column-wrapper {
@@ -126,7 +126,7 @@ main .cv-right-column {
 
 
 .cv-contacts {
-    padding: 1rem 0;
+    padding: 1rem 0 1rem 1rem;
     border-bottom: .2rem solid var(--border-color);
 }
 
@@ -204,7 +204,7 @@ main .cv-right-column {
   }
 
   .cv-catagory-links {
-    padding: 1rem 0;
+    padding: 1rem 0 1rem 1rem;
   }
 
   
@@ -268,7 +268,7 @@ header .toggle-icon svg {
 
 /* section styling */
 .cv-sec-py {
-    padding: 5rem 0 7rem;
+    padding: 5rem 1rem 7rem;
 }
 
 
@@ -300,7 +300,7 @@ header .toggle-icon svg {
 .cv-right-column-title::before {
     content: "";
     position: absolute;
-    width: 30%;
+    width: 10%;
     height: .2rem;
     background-color: var(--text-color);
     left: 0;
