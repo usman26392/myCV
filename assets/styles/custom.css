@@ -507,6 +507,12 @@ header .toggle-icon svg {
     background-image: url("../images/portfolio/react-images/crud-with-fake-api.webp");
 }
 
+.portfolio-image-acme {
+    background-image: url("../images/portfolio/react-images/acme.webp");
+}
+
+
+
 
 .portfolio-image-highway {
     background-image: url("../images/portfolio/client-design-images/highway.webp");
@@ -515,6 +521,28 @@ header .toggle-icon svg {
 .portfolio-image-strata {
     background-image: url("../images/portfolio/client-design-images/strata.webp");
 }
+
+.portfolio-image-admaf {
+    background-image: url("../images/portfolio/client-design-images/admaf.webp");
+}
+
+.portfolio-image-america {
+    background-image: url("../images/portfolio/client-design-images/america-ae.webp");
+}
+
+.portfolio-image-uni-ajman {
+    background-image: url("../images/portfolio/client-design-images/university-of-ajman.webp");
+}
+
+.portfolio-image-uni-ajman {
+    background-image: url("../images/portfolio/client-design-images/university-of-ajman.webp");
+}
+
+
+
+
+
+
 
 
 
