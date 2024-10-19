@@ -516,8 +516,6 @@ header .toggle-icon svg {
 }
 
 
-
-
 .portfolio-image-highway {
     background-image: url("../images/portfolio/client-design-images/highway.webp");
 }
@@ -540,6 +538,22 @@ header .toggle-icon svg {
 
 .portfolio-image-uni-ajman {
     background-image: url("../images/portfolio/client-design-images/university-of-ajman.webp");
+}
+
+.portfolio-image-atg {
+    background-image: url("../images/portfolio/client-design-images/atg-interiors.webp");
+}
+
+.portfolio-image-klockwork {
+    background-image: url("../images/portfolio/client-design-images/klockwork.webp");
+}
+
+.portfolio-image-dlc {
+    background-image: url("../images/portfolio/client-design-images/dlc.webp");
+}
+
+.portfolio-image-terra {
+    background-image: url("../images/portfolio/client-design-images/terra-nexus.webp");
 }
 
 
